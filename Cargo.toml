@@ -4,3 +4,23 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[[bin]]
+name = "lrs"
+path = "src/lrs.rs"
+
+[[bin]]
+name = "rrs"
+path = "src/rrs.rs"
+
+[[bin]]
+name = "m"
+path = "src/m.rs"
+
+[[bin]]
+name = "s"
+path = "src/s.rs"
+
+[[bin]]
+name = "t"
+path = "src/t.rs"
