@@ -1,6 +1,6 @@
  # Numerical Integration in Rust
 
-Numerical integrations methods written in Rust
+Numerical integration methods written in Rust
 
 ## Getting started
 
