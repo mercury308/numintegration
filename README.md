@@ -1,7 +1,5 @@
  # Numerical Integration in Rust
 
-Numerical integration methods written in Rust
-
 ## Getting started
 
 You will need [Rust](https://www.rust-lang.org/tools/install) and Cargo installed.
