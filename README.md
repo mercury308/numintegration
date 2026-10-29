@@ -1,7 +1,6 @@
- # Calc II Coding
+ # Numerical Integration in Rust
 
-Calculus II mathematical representations written in Rust
-- Numerical Integration
+Numerical integrations methods written in Rust
 
 ## Getting started
 
@@ -9,7 +8,7 @@ You will need [Rust](https://www.rust-lang.org/tools/install) and Cargo installe
 
 ```sh
 git clone <repository-url>
-cd calcii-coding
+cd numintegration
 cargo run
 ```
 
